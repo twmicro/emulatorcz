@@ -1,0 +1,9 @@
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\bin\Debug\EmulatorCZ.exe.config
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\bin\Debug\EmulatorCZ.exe
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\bin\Debug\EmulatorCZ.pdb
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\obj\Debug\EmulatorCZ.csprojResolveAssemblyReference.cache
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\obj\Debug\EmulatorCZ.MainForm.resources
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\obj\Debug\EmulatorCZ.Properties.Resources.resources
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\obj\Debug\EmulatorCZ.csproj.GenerateResource.Cache
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\obj\Debug\EmulatorCZ.exe
+c:\users\chicherin\documents\visual studio 2015\Projects\EmulatorCZ\EmulatorCZ\obj\Debug\EmulatorCZ.pdb
